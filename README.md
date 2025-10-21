@@ -9,3 +9,15 @@ It implement and manage cloud-base database using Amazon RDS and DynamoDB as pla
 - Amazon CloudWatch for monitoring and perfomance tracking.
 - AWS Lambda for database connectivity.
 
+# Uses of DataBase 
+- Store large amounts of data efficiently.
+- Update or delete records easily.
+- Analyze data for better decisions.
+- Search and retrieve information quickly.
+
+# There are different types Database 
+- Relational Database ( RDBMS )
+- NoSQL Database
+- Cloud Database
+- Graph Database
+
