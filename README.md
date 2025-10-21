@@ -16,8 +16,13 @@ It implement and manage cloud-base database using Amazon RDS and DynamoDB as pla
 - Search and retrieve information quickly.
 
 # There are different types Database 
-- Relational Database ( RDBMS )
-- NoSQL Database
-- Cloud Database
-- Graph Database
+- Amazon DynamoDB
+- Amazon Aurora
+- Amazon Redshift
+- Amazon Neptune
+
+# What I learned about Databases
+I now know how create and configure database instance. Set up security group and IAM roles for access control.
+Backup, restore, and monitor database. Connect your app ( like Python or Node.js ) to the database.
+
 
